@@ -1,0 +1,27 @@
+[1.103s] Invoking command in '/home/benjyl/irobot_ws/src/py_pubsub': PYTHONPATH=/home/benjyl/irobot_ws/build/py_pubsub/prefix_override:/home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/benjyl/irobot_ws/build/py_pubsub/build install --record /home/benjyl/irobot_ws/build/py_pubsub/install.log --single-version-externally-managed
+[1.451s] running egg_info
+[1.451s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.452s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.452s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.452s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.452s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.455s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.456s] adding license file 'LICENSE'
+[1.457s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.457s] running build
+[1.457s] running build_py
+[1.457s] copying py_pubsub/sub_ir_2.py -> /home/benjyl/irobot_ws/build/py_pubsub/build/lib/py_pubsub
+[1.458s] running install
+[1.458s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.458s]   warnings.warn(
+[1.459s] running install_lib
+[1.461s] copying /home/benjyl/irobot_ws/build/py_pubsub/build/lib/py_pubsub/sub_ir_2.py -> /home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.462s] byte-compiling /home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/sub_ir_2.py to sub_ir_2.cpython-310.pyc
+[1.463s] running install_data
+[1.464s] running install_egg_info
+[1.467s] removing '/home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.467s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.468s] running install_scripts
+[1.502s] Installing listener script to /home/benjyl/irobot_ws/install/py_pubsub/lib/py_pubsub
+[1.502s] writing list of installed files to '/home/benjyl/irobot_ws/build/py_pubsub/install.log'
+[1.564s] Invoked command in '/home/benjyl/irobot_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/benjyl/irobot_ws/build/py_pubsub/prefix_override:/home/benjyl/irobot_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/benjyl/irobot_ws/build/py_pubsub/build install --record /home/benjyl/irobot_ws/build/py_pubsub/install.log --single-version-externally-managed
